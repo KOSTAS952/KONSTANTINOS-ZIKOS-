@@ -22,14 +22,12 @@
 
 ## Πώς να τρέξετε
 
-1. Κλωνοποιήστε το αποθετήριο:
-   ```μπας
-   κλώνος git https://github.com/yourusername/product-order-simulation.git
-   cd προϊόν-παραγγελία-προσομοίωση
+1. αντιγραψτε το link του αποθετριου:
+ git https://github.com/yourusername/product-order-simulation.git                                                                                                                                                 cd προϊόν-παραγγελία-προσομοίωση
 
 
 
-Κάντε το script εκτελέσιμο:
+πατηστε αυτην την εντολη για να κανουμε το script εκτελεσημο:
 chmod +x script.sh
 
 
